@@ -39,12 +39,57 @@ Bechdel, Alison. _Fun Home: A Family Tragicomic_. New York, NY: Mariner Books, 2
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Quizzes | 20% |
-| Essays | 40% |
-| In-class report | 20% |
-| Attendance and participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essays
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class report
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Statement on Plagiarism
 ---------------------------
@@ -54,17 +99,225 @@ Plagiarism—use of another's intellectual work without acknowledgement is a ser
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introductory | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Alison Bechdel, _Fun Home_ {{< br >}}{{< br >}} Author Bio/Reviews {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Bechdel, _Fun Home_ (cont.) {{< br >}}{{< br >}} Report: Bechdel's Use of Comic Book Conventions or _Dykes to Watch Out For_ {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Tobias Wolff, _This Boy's Life_ {{< br >}}{{< br >}} Author Bio/Reviews {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Wolff, _This Boy's Life_ (cont.) {{< br >}}{{< br >}} Report: Geoffrey Wolff and _Duke of Deception_ (1979) or _This Boy's Life_, the Film (1993) OR Wolff's Fiction {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Edwige Danticat, _Brother_, _I'm Dying_ {{< br >}}{{< br >}} Author Bio/Reviews {{< br >}}{{< br >}}  | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Danticat, _Brother_ {{< br >}}{{< br >}} Report: Danticat's Fiction or Haitian Literature Today {{< br >}}{{< br >}}  | Essay 1 due 1 week after Ses #7 |
-| 8 |  {{< br >}}{{< br >}} Barack Obama, _Dreams From My Father_ {{< br >}}{{< br >}} Report: Obama in 1995 {{< br >}}{{< br >}}  | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Obama, _Dreams From My Father_ (cont.) {{< br >}}{{< br >}} Report: _Audacity of Hope_ or _Dreams_ and the Presidency {{< br >}}{{< br >}}  | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Ayaan Hirsi Ali, _Infidel_ {{< br >}}{{< br >}} Report: Author Bio/Reviews {{< br >}}{{< br >}}  | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Ali, _Infidel_ (cont.) {{< br >}}{{< br >}} Report: Comparison between Ali and another writer from the syllabus or politico-religious debates around I_nfidel_ {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Conclusion | Essay 2 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Alison Bechdel, _Fun Home_
+
+Author Bio/Reviews
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bechdel, _Fun Home_ (cont.)
+
+Report: Bechdel's Use of Comic Book Conventions or _Dykes to Watch Out For_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tobias Wolff, _This Boy's Life_
+
+Author Bio/Reviews
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Wolff, _This Boy's Life_ (cont.)
+
+Report: Geoffrey Wolff and _Duke of Deception_ (1979) or _This Boy's Life_, the Film (1993) OR Wolff's Fiction
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Edwige Danticat, _Brother_, _I'm Dying_
+
+Author Bio/Reviews
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Danticat, _Brother_
+
+Report: Danticat's Fiction or Haitian Literature Today
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due 1 week after Ses #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Barack Obama, _Dreams From My Father_
+
+Report: Obama in 1995
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Obama, _Dreams From My Father_ (cont.)
+
+Report: _Audacity of Hope_ or _Dreams_ and the Presidency
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ayaan Hirsi Ali, _Infidel_
+
+Report: Author Bio/Reviews
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ali, _Infidel_ (cont.)
+
+Report: Comparison between Ali and another writer from the syllabus or politico-religious debates around I_nfidel_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
