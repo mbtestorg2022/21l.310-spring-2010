@@ -12,7 +12,7 @@ Guidelines
 
 Guidelines for In-Class Report ([PDF]({{< baseurl >}}/resources/mit21l_310s10_rr01))
 
-Schacter, Daniel L. "The Seven Sins of Memory: Insights From Psychology and Cognitive Neuroscience." Harvard University. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.wjh.harvard.edu/~scanlab/Papers/2003_Schacter_SevenSinsSelf.pdf))
+Schacter, Daniel L. "The Seven Sins of Memory: Insights From Psychology and Cognitive Neuroscience." Harvard University. ([PDF](http://www.wjh.harvard.edu/~scanlab/Papers/2003_Schacter_SevenSinsSelf.pdf))
 
 Resources
 ---------
